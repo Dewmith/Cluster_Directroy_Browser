@@ -128,3 +128,6 @@ Unsupported file types can still be downloaded or opened locally.
 - Credentials are used directly for the SSH connection and are not stored by the app.
 - `credentials.json` contains connection details, so it should remain local and should not be shared unnecessarily.
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
