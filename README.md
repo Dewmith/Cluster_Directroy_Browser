@@ -17,7 +17,6 @@ The app connects to a remote SSH/SFTP server, limits browsing to the logged-in u
   - PDF files when Qt PDF support is available
 - Lets users download remote files to their local machine
 - Lets users open a selected remote file in the default local application
-- Can be packaged into a standalone Windows `.exe` with PyInstaller
 
 ## Project Layout
 
